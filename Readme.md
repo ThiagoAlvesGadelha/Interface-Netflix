@@ -12,4 +12,4 @@
 * jquery
 * [Font Awesome](https://fontawesome.com/search?q=play&s=solid%2Cbrands)
 * O melhor uso do Flex box
-* Link: [Interface Netflix](https://newinterface-netflix.netlify.app.)
+* Link: [Interface Netflix](https://newinterface-netflix.netlify.app)
