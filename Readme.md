@@ -12,3 +12,5 @@
 * jquery
 * [Font Awesome](https://fontawesome.com/search?q=play&s=solid%2Cbrands)
 * O melhor uso do Flex box
+* Link: [Interface Netflix](On branch main
+Your branch is up to date with 'origin/main'.)
